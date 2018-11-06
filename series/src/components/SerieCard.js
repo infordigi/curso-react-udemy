@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         padding: 10,
+        margin: 1,
         height: Dimensions.get('window').width / 2
     },
     card: {
